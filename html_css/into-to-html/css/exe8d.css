@@ -1,0 +1,24 @@
+
+.first-Name,.last-Name{
+    display:inline-block;
+    width: 100px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    border-radius:2px;
+    border-style:solid;
+}
+
+.email{
+    display: block;
+    width: 215px;
+    margin-bottom: 10px;
+    border-style:solid;
+}
+button{
+    background-color: rgb(47, 127, 231);
+    color:white;
+    border:none;
+    width:215px;
+    height:30px;
+    border-radius:5px;
+}
